@@ -94,5 +94,5 @@ public class PlayerController : MonoBehaviour
 	void AnimationRightSide()
 	{
 
-	}
+    }
 }
